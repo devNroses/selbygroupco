@@ -1,0 +1,27 @@
+.header{
+    &-wrapper{
+        border: 1px dashed hotpink;
+        display: flex;
+        padding: 1rem 2rem;
+        justify-content: space-evenly;
+
+        div{
+            width: 33%;
+            display: flex;
+            align-items: center;
+        }
+    }
+
+    &-logo{
+        border: 1px dashed royalblue;
+        justify-content: center;
+    }
+
+    &-status{
+        justify-content: flex-start;
+    }
+
+    &-social{
+        justify-content: flex-end;
+    }
+}
