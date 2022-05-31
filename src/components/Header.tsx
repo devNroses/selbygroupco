@@ -7,7 +7,6 @@ const Header: React.FC = ({}) => <header className="header-wrapper">
      <ul>
          <li>Twitter</li>
          <li>Instagram</li>
-         <li>LinkedIn</li>
      </ul>
     </div>
 </header>
