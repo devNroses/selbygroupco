@@ -23,5 +23,13 @@
 
     &-social{
         justify-content: flex-end;
+
+        ul{
+            display: inline-flex;
+            li{
+                list-style: none;
+                padding: 0 .5rem;
+            }
+        }
     }
 }
