@@ -1,6 +1,5 @@
 .header{
     &-wrapper{
-        border: 1px dashed hotpink;
         display: flex;
         padding: 1rem 2rem;
         justify-content: space-evenly;
@@ -13,7 +12,6 @@
     }
 
     &-logo{
-        border: 1px dashed royalblue;
         justify-content: center;
     }
 
